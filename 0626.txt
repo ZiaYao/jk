@@ -1,5 +1,5 @@
 {
-"spider": "https://liu673cn.coding.net/p/x/d/mao/git/raw/main/jar/custom_spider.jar;md5;db70fafa9eea27f2701b218f1b08a3ac",
+"spider": "https://notabug.org/zia/jk/raw/36ba3e00ce1037f415dfd117b366a0ee2dc35a0e/jar/custom_spider.jar;md5;db70fafa9eea27f2701b218f1b08a3ac",
 
 "sites": [
 {"key": "csp_77"         ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
