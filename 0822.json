@@ -60,6 +60,7 @@
 {"key": "csp_biubiu_yekong","name": "🌃夜空高清","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://notabug.org/zia/jk/raw/master/MaooXP/yekong.json"},
 {"key":"csp_biubiu_瓜皮TV","name":"🍉瓜皮TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/zia/jk/raw/master/MaooXB/guapiTV.json"},
 {"key":"csp_Tkys","name":"📡天空影视","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "csp_xpath_jbb","name": "🏳剧白白",	"type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/zia/jk/raw/master/MaooXB/%e5%89%a7%e7%99%bd%e7%99%bd-%e8%93%9d%e5%85%89.json"},
 
 {"key":"Smdyy_spider","name":"🐞神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key": "csp_Yiso"    ,"name":"📀易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"c504bbcde59f4f32a811332866da74e5"},
