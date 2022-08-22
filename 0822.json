@@ -1,7 +1,7 @@
 ﻿  // 配置地址 --> clan://localhost/TVBox/box.json
 
 {
-"spider":"https://notabug.org/zia/jk/src/master/jar/0820.jar",
+"spider":"https://notabug.org/zia/jk/raw/master/jar/0820.jar",
 
 //直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
